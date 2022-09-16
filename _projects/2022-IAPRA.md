@@ -4,6 +4,7 @@ collection: projects
 type: "IAPRA Project"
 permalink: /projects/2022-IAPRA
 venue:
+date: 2022
 
 ---
 
