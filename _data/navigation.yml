@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://qingtaocao.github.io/images/Resume_Qingtao_Cao_website.pdf
     
   - title: "Guide"
     url: /markdown/
