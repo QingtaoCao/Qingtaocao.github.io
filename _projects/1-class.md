@@ -1,9 +1,10 @@
 ---
 title: "Teaching experience 1"
 collection: projects
-type: "Class Project"
+type: "PhD student"
 permalink: /projects/3-class
-date: 2014-01-01
+venue: "Class Project"
+date: 2020-01-01
 ---
 
 
