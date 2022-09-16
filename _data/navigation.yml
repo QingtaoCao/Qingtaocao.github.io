@@ -3,20 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Projects"
     url: /projects/    
     
   - title: "Presentation"
     url: /presentation/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: https://qingtaocao.github.io/images/Resume_Qingtao_Cao_website.pdf
     
-  - title: "Guide"
-    url: /markdown/
