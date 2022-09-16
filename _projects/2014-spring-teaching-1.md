@@ -1,6 +1,6 @@
 ---
 title: "Applying Geo-Spatial Temporal Monitoring and Mapping, For Predictive Analytics with Privacy Protection: Anticipating the Next Virus Hot Spot. Task2:  Mobility Analysis "
-collection: teaching
+collection: projects
 type: "IAPRA"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Northeastern Univeristy"
