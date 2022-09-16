@@ -1,9 +1,9 @@
 ---
 title: "Applying Geo-Spatial Temporal Monitoring and Mapping, For Predictive Analytics with Privacy Protection: Anticipating the Next Virus Hot Spot. Task2:  Mobility Analysis "
 collection: projects
-type: "IAPRA Project"
+type: "Assistant Researcher"
 permalink: /projects/2022-IAPRA
-venue: "University 1, Department"
+venue: "IAPRA Project"
 date: 2014-01-01
 
 ---
