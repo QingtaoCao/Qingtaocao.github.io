@@ -2,12 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Projects"
-    url: /projects/    
     
   - title: "Presentation"
     url: /presentation/
+
+  - title: "Projects"
+    url: /projects/    
     
   - title: "CV"
     url: https://qingtaocao.github.io/images/Resume_Qingtao_Cao_website.pdf
