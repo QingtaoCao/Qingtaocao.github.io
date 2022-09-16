@@ -4,7 +4,7 @@ collection: projects
 type: "Assistant Researcher"
 permalink: /projects/2022-IAPRA
 venue: "IAPRA Project"
-date: 2014-01-01
+date: 2022-01-01
 
 ---
 
