@@ -3,8 +3,8 @@ title: "Applying Geo-Spatial Temporal Monitoring and Mapping, For Predictive Ana
 collection: projects
 type: "IAPRA Project"
 permalink: /projects/2022-IAPRA
-venue:
-date: 2022
+venue: "University 1, Department"
+date: 2014-01-01
 
 ---
 
