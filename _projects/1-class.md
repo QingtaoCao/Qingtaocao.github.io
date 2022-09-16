@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Data Visualization and Data Analysis"
 collection: projects
 type: "PhD student"
 permalink: /projects/3-class
