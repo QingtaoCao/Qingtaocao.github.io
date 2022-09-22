@@ -7,9 +7,9 @@ author_profile: true
 <br/><br/>
 
 **Micro-level Social Structures and the Success of COVID-19 National Policies**  
-<sub>Journal Paper || 2022 || <i>Available at SSRN 3977156. </i></sub>     
+<sub>Journal Paper || 2022 || <iNature Computational Science 2, 595–604. </i></sub>     
 <sub>**Qingtao Cao**, Babak Heydari</sub>   
-<sub>[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3977156"> PDF </a>]</sub>  
+<sub>[<a href="https://www.nature.com/articles/s43588-022-00314-0"> PDF </a>]</sub>  
 <br/><br/>
 
 **Mixed-integer optimization approach to learning association rules for unplanned ICU transfer**  
