@@ -7,7 +7,7 @@ author_profile: true
 <br/><br/>
 
 **Micro-level Social Structures and the Success of COVID-19 National Policies**  
-<sub>Journal Paper || 2022 || <i> Nature Computational Science 2, 595–604. </i></sub>     
+<sub>Journal Paper || 2022 || <i> Nature Computational Science, 2, 595–604. </i></sub>     
 <sub>**Qingtao Cao**, Babak Heydari</sub>   
 <sub>[<a href="https://www.nature.com/articles/s43588-022-00314-0"> PDF </a>]</sub>  
 <br/><br/>
