@@ -14,9 +14,9 @@ As a research assistant in industrial engineering, understanding the questions i
 
 To look for insight into big data, I am proficient at generating different models, ranging from basic regression models to complex machine learning models. I also have the advanced knowledge to analyze the data from the network perspective, which is particularly useful for social media and spatial data. Meanwhile, developing causal models to explain the causal effect between two impact factors or two datasets is another increasing skill in my Ph.D. program
 
-Position Search
+<!-- Position Search
 ======
-* Post-Doc
+* Post-Doc -->
 
 Skills
 ======
