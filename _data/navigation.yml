@@ -9,8 +9,8 @@ main:
   - title: "Projects"
     url: /projects/    
     
-  - title: "Talks"
-    url: /talks/  
+#   - title: "Talks"
+#     url: /talks/  
     
   - title: "CV"
     url: https://qingtaocao.github.io/images/Resume_Qingtao_Cao_website.pdf
