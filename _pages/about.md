@@ -20,10 +20,10 @@ To look for insight into big data, I am proficient at generating different model
 
 Skills
 ======
-1. Complex System Modeling
-2. Data Analyze
+1. Complex System Modeling (Causal Model and Agent-Based model)
+2. Data Analysis
 3. Machine Learning
-4. Network Science (Graph Theory)
+4. Network Science ( and Graph Theory)
 5. Simulation
 
 Reward
