@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Industrial Engineering at Northeastern University, working with Prof. Babak Heydari.
+I am a Ph.D. candidate in Industrial Engineering at Northeastern University, working with [<a href="https://coe.northeastern.edu/people/heydari-babak/"> Prof. Babak Heydari </a>] at [<a href="https://sites.google.com/view/magicslab/home" Multi-AGent Intelligent Complex System (MAGICS)Lab</a>].
 
 As a research assistant in industrial engineering, understanding the questions in the industry and then looking for a suitable tool to solve them is my daily job. Through long-term training, I have become a fast learner and solid problem solver to achieve various objectives in my academic career or previous professional experience. Over the past several years, I have gained extensive experience in handling big data and modeling. 
 
