@@ -26,7 +26,7 @@ Skills
 4. Network Science ( and Graph Theory)
 5. Simulation
 
-Reward
+Award
 ------
 * Outstanding Graduate Research Award, College of Engineering, Northeastern University, 2022
 
